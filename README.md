@@ -129,3 +129,5 @@ This dynamic retail dashboard is a valuable tool for retail businesses. It enabl
 
 #### Visuals:
 The dashboard comes with visual examples for each analysis, including charts, KPI tables, and slicers to enhance the overall user experience.
+![image](https://github.com/user-attachments/assets/ccb2e584-5f17-42db-805e-b864d78cba89)
+
